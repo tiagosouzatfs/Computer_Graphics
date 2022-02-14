@@ -3,7 +3,7 @@ Repositório da disciplina de Computação Gráfica - DCA0114.
 
 <h1>Projeto Final - 3ª Unidade</h1>
 
-<p>A imagem abaixo trata da simulação de um braço robótico com a utilização de Python + OpenGL, faz movimentos de oberservador (câmera) e no próprio braço robótico, incluindo a garra, dependendo da tecla acionada. Foi utilizada a versão 3.10 do Python. Lembre de instalar as :<a href="https://github.com/tiagosouzatfs/Computer_Graphics/blob/main/projeto_final_computacao_grafica_ufrn-main/requirements.txt">dependências</a></p>
+<p>A imagem abaixo trata da simulação de um braço robótico com a utilização de Python + OpenGL, faz movimentos de oberservador (câmera) e no próprio braço robótico, incluindo a garra, dependendo da tecla acionada. Foi utilizada a versão 3.10 do Python. Lembre de instalar as <a href="https://github.com/tiagosouzatfs/Computer_Graphics/blob/main/projeto_final_computacao_grafica_ufrn-main/requirements.txt">dependências</a>.</p>
 
 <h2>Execução da aplicação:</h2>
 
