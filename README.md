@@ -1,5 +1,5 @@
 # Computer_Graphics
-Repositório da disciplina de Computação Gráfica - DCA0114.
+Repositório da disciplina de Computação Gráfica/UFRN - DCA0114.
 
 <h1>Projeto Final - 3ª Unidade</h1>
 
